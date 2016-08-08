@@ -1,0 +1,27 @@
+_repo: Notes-of-an-Overland-Journey-Through-France-and-Egypt-to-Bombay_12064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Emma
+    deathdate: 1840
+    gutenberg_agent_id: '4205'
+    url: http://www.gutenberg.org/2009/agents/4205
+description: Cover -- Contents.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Bombay (India) -- Description and travel'
+- !lcc 'G'
+- GITenberg
+title: Notes of an Overland Journey Through France and Egypt to Bombay
+url: http://www.gutenberg.org/ebooks/12064
