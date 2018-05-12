@@ -1,5 +1,8 @@
 _repo: Notes-of-an-Overland-Journey-Through-France-and-Egypt-to-Bombay_12064
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Emma
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4205'
     url: http://www.gutenberg.org/2009/agents/4205
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12064#Notes-of-an-Overland-Journey-Through-France-and-Egypt-to-Bombay
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
